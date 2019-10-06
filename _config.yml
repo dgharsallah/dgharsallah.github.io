@@ -4,7 +4,6 @@ description:        Dhiaeddine's Blog
 author:             Dhiaeddine Gharsallah
 # baseurl:            "/"
 url:                "https://dgharsallah.github.io"
-theme: jekyll-theme-clean-blog
 
 # Social Profiles
 twitter_username:   d_gharsallah
